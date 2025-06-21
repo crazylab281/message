@@ -1,2 +1,2 @@
-# message
-Fake discord message generator
+# Password
+lightyware
